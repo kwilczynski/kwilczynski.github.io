@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kwilczynski
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kwilczynski.github.io
+  * I am kwilczynski (https://keybase.io/kwilczynski) on keybase.
+  * I have a public key ASB06PsqUSPDg7WO13cIHMtU6W7KCynK9Rg6rl-eXS79Kgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012074e8fb2a5123c383b58ed777081ccb54e96eca0b29caf5183aae5f9e5d2efd2a0a",
+      "host": "keybase.io",
+      "kid": "012074e8fb2a5123c383b58ed777081ccb54e96eca0b29caf5183aae5f9e5d2efd2a0a",
+      "uid": "c42f51691f2492ea90284d4191261300",
+      "username": "kwilczynski"
+    },
+    "merkle_root": {
+      "ctime": 1602484704,
+      "hash": "8e6adcbd42a39cb69df3a1a072a2f17127a715ee64d8d993d3aa23a5a192e69337747cd53bc91eba8696f86292e9d2e1fa79d2895ba653bfca58b62f229924f0",
+      "hash_meta": "286310b1b916ad84ecda7fe013c93de8efcabd15c0a8c3992e37e528fae24ceb",
+      "seqno": 17805317
+    },
+    "service": {
+      "entropy": "/nDirmfcOkvFpdj5b9enKV+8",
+      "hostname": "kwilczynski.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1602484734,
+  "expire_in": 504576000,
+  "prev": "29e6834cb4d2801fa9e1bfb6132eb9529af9169fcf1f57313f560f34e17f2ff1",
+  "seqno": 569,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdOj7KlEjw4O1jtd3CBzLVOluygspyvUYOq5fnl0u/SoKp3BheWxvYWTETJcCzQI5xCAp5oNMtNKAH6nhv7YTLrlSmvkWn88fVzE/Vg804X8v8cQgA/OXbpDZAfy9LlJUu1sNCcSFhg2beqmQtZvPD3ZhWPICAcKjc2lnxECl0jALh7AzkUYK0tRurj5EOaqZuZ9HQFDG/XiQtA6IU8js0fYmVpw9/g5M3NO4PiDX/FXlK23JX5IGTNu3IbYCqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgeM9n1T2qyHB4WoB4LvFhZsQc1Oj0tUCIo2gCn+WeRD+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kwilczynski
+
+==================================================================
